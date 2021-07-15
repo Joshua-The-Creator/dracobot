@@ -2,13 +2,13 @@
 ## A Friday Night Funkin' Mod
 
 # Dracobot Team
-- Director, Spriter, and Lead Charter
+- **Director, Spriter, and Lead Charter**
     - Dracobot
-- Lead Programmer
-    - Joshua The Creator
-- Animator and Charter
+- **Lead Programmer**
+    - Joshua The Creator (hey, that's me!)
+- **Animator and Charter**
     - Asho
-- Composer
+- **Composer**
     - Mojo
-- Vocalist
+- **Vocalist**
     - Numbskill
